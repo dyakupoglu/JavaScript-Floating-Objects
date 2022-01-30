@@ -5,13 +5,13 @@
 ## Project Images
 
 ### Project Image - 1
-![js_floating_object_1](Project_Images/js_floating_object_1.PNG)
+![js_floating_object_1](./Project_Images/js_floating_object_1.PNG)
 
 ### Project Image - 2
-![js_floating_object_2](Project_Images/js_floating_object_2.PNG)
+![js_floating_object_2](./Project_Images/js_floating_object_2.PNG)
 
 ### Project Image - 3
-![js_floating_object_3](Project_Images/js_floating_object_3.PNG)
+![js_floating_object_3](./Project_Images/js_floating_object_3.PNG)
 
 <br/>
 
