@@ -1,0 +1,21 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+#container {
+    margin: auto;
+    border: 1px solid black;
+    height: 99.8%;
+    overflow-y: auto;
+    width: 500px;
+    display: block;
+}
+
+#rectangle {
+    position: relative;
+    display: block;
+    background-color: blue;
+    min-width: 100%;
+}
